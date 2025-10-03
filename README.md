@@ -15,7 +15,7 @@ This package contains:
 
    * a powerful N-dimensional array object
    * sophisticated (broadcasting) functions
-   * tools for integrating C/C++ and Fortran code
+   * tools for integrating C/C++ and Fortran code and Julia 
    * useful linear algebra, Fourier transform, and random number capabilities.
 
 It derives from the old Numeric code base and can be used as a replacement for Numeric. It also adds the features introduced by numarray and can be used to replace numarray.
